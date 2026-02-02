@@ -1,0 +1,9 @@
+{
+  "name": "agent-test-repo",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo 'No tests yet'"
+  }
+}
